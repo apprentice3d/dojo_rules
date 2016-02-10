@@ -8,3 +8,8 @@ maybe ...
 could be a skill, no?
 
 I think I prematurely accepted a merge request.
+
+Another deadly skill
+
+* rebase
+
